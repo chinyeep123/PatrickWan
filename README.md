@@ -7,6 +7,8 @@
 # My Latest Articles
 [Do you know what is polymorphic in Laravel?](https://patrickwanchinyeep.medium.com/do-you-know-what-is-polymorph-in-laravel-8268844e677c)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/do-you-know-what-is-polymorph-in-laravel-8268844e677c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/do-you-know-what-is-polymorph-in-laravel-8268844e677c" alt="Do you know what is polymorphic in Laravel?"> 
+  
+https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/do-you-know-what-is-polymorph-in-laravel-8268844e677c
 
 # If you want to support me: <br/>
 ▶ Subscribe to [Medium using my referral link](https://patrickwanchinyeep.medium.com/membership)  
