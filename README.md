@@ -10,6 +10,9 @@
   
 https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/do-you-know-what-is-polymorph-in-laravel-8268844e677c
 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+    
 # If you want to support me: <br/>
 ▶ Subscribe to [Medium using my referral link](https://patrickwanchinyeep.medium.com/membership)  
 ▶ Subscribe to [Medium Newsletter](https://patrickwanchinyeep.medium.com/subscribe)  
