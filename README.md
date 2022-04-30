@@ -5,12 +5,9 @@
 
 
 # My Latest Articles
-[Do you know what is polymorphic in Laravel?](https://patrickwanchinyeep.medium.com/do-you-know-what-is-polymorph-in-laravel-8268844e677c)
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/0" alt="Do you know what is polymorphic in Laravel?"> 
-  
-https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/do-you-know-what-is-polymorph-in-laravel-8268844e677c
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/1" alt="How to make auto load more in Laravel App"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/2" alt="A package that can detect mobile or desktop user in Laravel"> 
 
     
 # If you want to support me: <br/>
