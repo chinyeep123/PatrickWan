@@ -8,17 +8,17 @@ My name's Patrick 👦. I'm a PHP Developer (PHP, Laravel, React JS, Vue JS,...)
 <ul>
     <li>
         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/0">
-            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/0" alt="Do-you-know-what-is-polymorphic-in-Laravel?"> 
+            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/0" alt="Read Latest Article 0"> 
         </a>
     </li>
     <li>
         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/1">
-            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/1" alt="Read Latest Article 2"> 
+            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/1" alt="Read Latest Article 1"> 
         </a>
     </li>
     <li>
         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/2">
-            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/2" alt="A-package-that-can-detect-mobile-or-desktop-user-in-Laravel"> 
+            <img src="https://github-readme-medium-recent-article.vercel.app/medium/@patrickwanchinyeep/2" alt="Read Latest Article 2"> 
         </a>
     </li>
     
