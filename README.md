@@ -1,7 +1,10 @@
 # Patrick Wan
 
 # About Me
-My name's Patrick 👦. I'm a PHP Developer (PHP, Laravel, React JS, Vue JS,...) 👨‍💻 and also a Technical Blogger 📰 [@Medium](https://medium.com/@patrickwanchinyeep)
+My name's Patrick 👦. I'm a PHP Developer working in [Odesi eCOB](https://odesi.tech/).  
+💪  Like to learn any new technology, such as Laravel Livewire, Flutter, Vue JS, React JS, etc.  
+👨‍💻 I'm also a Technical Writer 📰 [@Medium](https://medium.com/@patrickwanchinyeep).  
+💬  Reach me out for any problem faced in Web Backend development (Laravel, React JS, Vue JS, Jquery). I'm open to feedback and suggestions!.  
 
 
 # 📝 My Latest Articles
